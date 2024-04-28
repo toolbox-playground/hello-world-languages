@@ -4,7 +4,7 @@
 ## Uso local
 Para usar o projeto Hello World Node.js, siga estas etapas:
 
-1. Certifique-se de ter a versão atual do Node.js (v14.17.0) e do npm (v6.14.13) instaladas em sua máquina. Você pode baixar e instalar o Node.js e npm a partir do site oficial: [https://nodejs.org](https://nodejs.org). 
+1. Certifique-se de ter a versão atual do Node.js (v20.12.2) e do npm (v10.6.0) instaladas em sua máquina. Você pode baixar e instalar o Node.js e npm a partir do site oficial: [https://nodejs.org](https://nodejs.org). 
 
 2. Abra o terminal ou prompt de comando e navegue até o diretório raiz do projeto.
 
