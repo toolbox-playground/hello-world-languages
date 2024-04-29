@@ -1,5 +1,5 @@
 # Hello World Python
-![Toolbox](img/toolbox-playground.png)
+![Toolbox](../img/toolbox-playground.png)
 
 ## Uso local
 
