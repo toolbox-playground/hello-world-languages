@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("Bem-Vindo ao Hello World da ToolBox Playground!")
+	fmt.Println("Bem-Vindo ao Hello World GO da ToolBox Playground!")
 }
