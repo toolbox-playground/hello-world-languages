@@ -5,15 +5,14 @@
 
 Para usar o projeto Hello World Flask Python, siga estas etapas:
 
-1. Certifique-se de ter a versão atual do Python (v3.9.7) instalada em sua máquina. Você pode baixar e instalar o Python a partir do site oficial: [https://www.python.org](https://www.python.org).
+1. Certifique-se de ter a versão atual do Python (v3.9.7) instalada em sua máquina. Você pode baixar e instalar o Python a partir do site oficial: [https://wiki.python.org/moin/BeginnersGuide/Download](https://wiki.python.org/moin/BeginnersGuide/Download).
 
-2. Abra o terminal ou prompt de comando e navegue até o diretório raiz do projeto.
+2. Certifique-se que você está dentro do diretório `hello-world-languages/python`.
 
 3. Crie um ambiente virtual para isolar as dependências do projeto:
     ```bash
     python -m venv venv
     ```
-
 4. Ative o ambiente virtual:
     - No Windows:
       ```bash
