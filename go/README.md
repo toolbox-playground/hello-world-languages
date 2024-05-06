@@ -12,3 +12,5 @@ Para usar o projeto Hello World Go, siga estas etapas:
     ```bash
     go run hello.go
     ```
+
+4. Abra seu navegador e visite `http://localhost:8080` para ver a mensagem "Bem-Vindo ao Hello World Go da ToolBox Playground".
