@@ -50,3 +50,4 @@
 /media/marcelo/HDD/htdocs/toolbox/hello-world-languages/dotnet/obj/Debug/net8.0/dotnet.pdb
 /media/marcelo/HDD/htdocs/toolbox/hello-world-languages/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
 /media/marcelo/HDD/htdocs/toolbox/hello-world-languages/dotnet/obj/Debug/net8.0/ref/dotnet.dll
+/media/marcelo/HDD/htdocs/toolbox/hello-world-languages/dotnet/bin/Debug/net8.0/dotnet.staticwebassets.runtime.json

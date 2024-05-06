@@ -12,4 +12,4 @@ Para usar o projeto Hello World .Net, siga estas etapas:
     ```bash
     dotnet run
     ```
-4. Abra seu navegador e visite `http://localhost:8080` para ver a mensagem "Bem-Vindo ao Hello World .Net Asp!".
+4. Abra seu navegador e visite `http://localhost:8080/index.html` para ver a mensagem "Bem-Vindo ao Hello World .Net Asp!".
