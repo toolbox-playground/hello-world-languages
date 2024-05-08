@@ -33,4 +33,4 @@ Para usar o projeto Hello World Flask Python, siga estas etapas:
     python app.py
     ```
 
-7. Abra seu navegador e visite `http://localhost:5000` para ver a mensagem "Bem-Vindo ao Hello World Flask Python".
+7. Abra seu navegador e visite `http://localhost:5001` para ver a mensagem "Bem-Vindo ao Hello World Flask Python".

@@ -7,4 +7,4 @@ def hello_world():  # Defina uma função para lidar com a requisição da URL r
     return render_template('index.html')  # Renderiza o template index.html
 
 if __name__ == '__main__':  # Verifique se o script está sendo executado diretamente (não importado)
-    app.run(host="127.0.0.1", port=5000, debug=True) # Inicie a aplicação Flask
+    app.run(host="127.0.0.1", port=5001, debug=True) # Inicie a aplicação Flask
